@@ -12,4 +12,7 @@ contract greeter {
 	function greet() constant returns (string)  {
 		/* Write one line of code to allow the contract to return our greeting */
 	}
+
+	/* Add a fallback function to prevent contract payability and non-existent function calls */
+	
 }

@@ -1,4 +1,4 @@
-# Homework-1
+# Homework 1
 Welcome to the first the Blockchain for Developers DeCal's first assignment. You'll be familiarizing yourself with *Solidity*, the currently most supported smart contract language. For those familiar with JavaScript, *Solidity* comes with a similar syntax.
 
 ### Homework Instructions
