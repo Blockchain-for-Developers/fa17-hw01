@@ -1,12 +1,12 @@
 ## Fibonacci Numbers Contract
-Build a simple contract to return the fibonacci number in a position (n) in the sequence.
+Build a simple contract that returns the integer in position (n) in the Fibonacci sequence.
 
 Fibonacci numbers are the numbers in the following integer sequence:
-1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...
 
-Mathematically,
+As seen [here](https://en.wikipedia.org/wiki/Fibonacci_number), the sequence `F(n)` is defined by the recurrence relation:
 ```F(n) = F(n-1) + F(n-2)```
-where F(1) and F(2) = 1
+where F(0) = 0 and F(1) = 1
 
 ### Rules
 * The contract must be able to handle any value of (n), starting from 0

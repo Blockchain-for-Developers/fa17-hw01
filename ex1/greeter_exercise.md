@@ -1,5 +1,5 @@
 ## Greeter Contract
-Build a simple contract to "greet" the user.
+Build a simple contract that "greets" the user.
 
 As is common when learning any language for the first time, this is the *Solidity* equivalent to `Hello, world!` in other languages.
 
