@@ -8,6 +8,8 @@ As seen [here](https://en.wikipedia.org/wiki/Fibonacci_number), the sequence `F(
 ```F(n) = F(n-1) + F(n-2)```
 where F(0) = 0 and F(1) = 1
 
+**All work should be done in Fibonacci_skeleton.sol**
+
 ## Rules
 * The contract must be able to handle any value of (n), starting from 0
 * The contract cannot be payable; if a user attempts to pay into the contract, they should have all their money refunded
