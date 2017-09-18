@@ -1,11 +1,11 @@
 pragma solidity ^0.4.16;
 
 
-contract greeter {
+contract Greeter {
 	/* Add one variable to hold our greeting */
 	string greeting;
 
-	function greeter(string _greeting) public {
+	function Greeter(string _greeting) public {
 		/* Write one line of code for the contract to set our greeting */
 	}
 
