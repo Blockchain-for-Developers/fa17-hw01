@@ -3,9 +3,9 @@ Welcome to the Blockchain for Developers DeCal's first assignment. You'll be fam
 
 ## Homework Instructions
 
-For the two exercises, *ex1* and *ex2*, please take a look at the specifications noted in their respective markdowns.
+For the two exercises, **ex1** and **ex2**, please take a look at the specifications noted in their respective markdowns.
 
-In *greeter_skeleton.sol* you will be coding up the *Solidity* equivalent to `Hello, world!`. In *fibonacci_skeleton.sol* you will be implementing the simple Fibonacci formula learned in CS61A.
+In **greeter_skeleton.sol** you will be coding up the *Solidity* equivalent to `Hello, world!`. In **fibonacci_skeleton.sol** you will be implementing the simple Fibonacci formula learned in CS61A.
 
 For syntactical quirks and more info on the language, please refer to the [*Solidity* documentation](https://solidity.readthedocs.io/en/develop/).
 
