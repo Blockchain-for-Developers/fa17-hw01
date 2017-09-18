@@ -8,7 +8,7 @@ contract Fibonacci {
 
 	function calculate(uint position) returns (uint result) {
 		/* Carry out calculations to find the nth Fibonacci number */
-		require(position >= 0); 				// `position` cannot be negative
+		require(position >= 0);					// `position` cannot be negative
 		if (position == 0) {
 			return 0;
 		}
