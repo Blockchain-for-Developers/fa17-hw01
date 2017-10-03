@@ -13,6 +13,6 @@ As you (probably) do not have your developer environment set up, we recommend ch
 
 ## Submission Instructions
 
-Please fork this repo and push your code up to your fork. Please fill out this Google form to let us know where you've got your answers: https://goo.gl/forms/3urLz3x3JESPuCHg2.
+Please fork this repo and push your code up to your fork. Please fill out this Google Form to let us know where you've got your answers: https://goo.gl/forms/3urLz3x3JESPuCHg2.
 
 Please feel free to reach out to the staff via Piazza should you run into any trouble.
